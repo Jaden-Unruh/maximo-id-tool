@@ -136,5 +136,4 @@ This `README.md` is located directly within the parent directory, so is `Maximo 
 
 I did detailed documentation in the code using javadocs - this could be useful to anyone trying to edit or change my code, I've compiled all of that into `doc`, `doc\index.html` is the entry page there.
 
->>>>>>> Add everything
 Everything else in the github is stuff that gets bundled into the `.jar` when it's compiled. `pom.xml` contains all sorts of computer-readable information about the program and how it's built and run. All of the java code is located in the three `.java` files in `src\main\java\us\akana\tools\maximoIds`.
