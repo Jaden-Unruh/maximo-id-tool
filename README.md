@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Maximo ID Tool
 A tool that references a reassessment maximo mapping file to write new maximo ids to an inventory file using the id numbers
 
